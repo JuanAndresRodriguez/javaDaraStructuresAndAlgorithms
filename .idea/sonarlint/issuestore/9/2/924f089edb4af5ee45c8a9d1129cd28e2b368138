@@ -1,0 +1,19 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï¾ú´ıÿÿÿÿ8ûâíÜß1
+7
+java:S1220""Move this file to a named package.8¡İİÜß1
+U
+java:S18545"8Remove this useless assignment to local variable "last".(Û¢²8ˆãíÜß1
+V
+java:S18544"9Remove this useless assignment to local variable "first".(î™ü›8ˆãíÜß1
+]	java:S125"<This block of commented-out lines of code should be removed.(©şƒüÿÿÿÿ8‹ãíÜß1
+W	java:S125*"<This block of commented-out lines of code should be removed.(Ö×€78ãíÜß1
+L	java:S106."+Replace this use of System.out by a logger.(ôŸš±şÿÿÿÿ8ãíÜß1
+G	java:S1060"+Replace this use of System.out by a logger.(¼á»©8ãíÜß1
+G	java:S1061"+Replace this use of System.out by a logger.(ğµ¬É8ãíÜß1
+G
+java:S14814"*Remove this unused "first" local variable.(î™ü›8“ãíÜß1
+F
+java:S14815")Remove this unused "last" local variable.(Û¢²8”ãíÜß1
+L	java:S1067"+Replace this use of System.out by a logger.(Øªòùÿÿÿÿ8•ãíÜß1

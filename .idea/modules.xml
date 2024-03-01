@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaDataStructuresAlgorithms.iml" filepath="$PROJECT_DIR$/JavaDataStructuresAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adjacencyList/adjacencyList.iml" filepath="$PROJECT_DIR$/adjacencyList/adjacencyList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adjacencyMatrix/adjacencyMatrix.iml" filepath="$PROJECT_DIR$/adjacencyMatrix/adjacencyMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarySearch/binarySearch.iml" filepath="$PROJECT_DIR$/binarySearch/binarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binaryTree/binaryTree.iml" filepath="$PROJECT_DIR$/binaryTree/binaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/breadthFirstSearch/breadthFirstSearch.iml" filepath="$PROJECT_DIR$/breadthFirstSearch/breadthFirstSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubbleSort/bubbleSort.iml" filepath="$PROJECT_DIR$/bubbleSort/bubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/depthFirstSearch/depthFirstSearch.iml" filepath="$PROJECT_DIR$/depthFirstSearch/depthFirstSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicArray/dynamicArray.iml" filepath="$PROJECT_DIR$/dynamicArray/dynamicArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executionTime/executionTime.iml" filepath="$PROJECT_DIR$/executionTime/executionTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashTable/hashTable.iml" filepath="$PROJECT_DIR$/hashTable/hashTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertionSort/insertionSort.iml" filepath="$PROJECT_DIR$/insertionSort/insertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interpolationSearch/interpolationSearch.iml" filepath="$PROJECT_DIR$/interpolationSearch/interpolationSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearSeach/linearSeach.iml" filepath="$PROJECT_DIR$/linearSeach/linearSeach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedListVsArrayList/linkedListVsArrayList.iml" filepath="$PROJECT_DIR$/linkedListVsArrayList/linkedListVsArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mergeSort/mergeSort.iml" filepath="$PROJECT_DIR$/mergeSort/mergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prorityQueues/prorityQueues.iml" filepath="$PROJECT_DIR$/prorityQueues/prorityQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queues/queues.iml" filepath="$PROJECT_DIR$/queues/queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickSort/quickSort.iml" filepath="$PROJECT_DIR$/quickSort/quickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectionSort/selectionSort.iml" filepath="$PROJECT_DIR$/selectionSort/selectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/stacks.iml" filepath="$PROJECT_DIR$/stacks/stacks.iml" />
+    </modules>
+  </component>
+</project>
